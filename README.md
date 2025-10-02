@@ -77,7 +77,7 @@ As a busy individual, I want a simple Todo App that lets me capture, review, and
 - Outstanding decisions (authentication, persistence, offline behavior, input limits) are resolved before implementation starts.
 
 ## Illustration
-![Todo App Concept](../../.specify/assets/image.jpg)
+![Todo App Concept](./assets/image.jpg)
 
 ```mermaid
 flowchart TD
